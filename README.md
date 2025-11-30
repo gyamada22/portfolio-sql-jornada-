@@ -41,12 +41,12 @@
 - [ ] **26. Triggers DDL**
 - [ ] **27. Pivot Table**
 
-## 🗓️ Próximos Passos & Timeline
+## 🗓️ Próximos Passos & Metas
 
-### **🎯 Dezembro: Transição SQL → Python**
-- **1ª Quinzena:** Completar módulos 12-27 do SQL Server
+### **🎯 Dezembro: Consolidando SQL e Explorando Python**
+- **1ª Quinzena:** Finalizar módulos 12-27 com foco em projetos práticos
 - **2ª Quinzena:** 
-  - **Revisão geral e consolidação do aprendizado com certificações SQLBolt & HackerRank**
-  - **Desafios práticos no LeetCode** - SQL e lógica de programação
-  - **Início Kaggle** Python + Pandas - Análise de dados
+  - **Desafios LeetCode** - 5-10 exercícios diários de SQL
+  - **Certificações** - SQLBolt & HackerRank para validar conhecimento
+  - **Revisar Python** - Explorando Pandas para análise de dados
 
