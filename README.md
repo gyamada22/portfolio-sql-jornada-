@@ -1,7 +1,7 @@
 # portfolio-sql-jornada
 Minha jornada de aprendizado em SQL Server - Documentando cada módulo e projeto. Do básico ao avançado!
 
-# 🚀 Minha Jornada em SQL Server
+# 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
 ![Progresso](https://progress-bar.xyz/41)
@@ -50,5 +50,6 @@ Minha jornada de aprendizado em SQL Server - Documentando cada módulo e projeto
 - **1ª Quinzena:** Completar módulos 12-27 do SQL Server
 - **2ª Quinzena:** 
   - **Revisão geral e consolidação do aprendizado com certificações SQLBolt & HackerRank**
+  - **Desafios práticos no LeetCode** - SQL e lógica de programação
   - **Início Kaggle** Python + Pandas - Análise de dados
 
