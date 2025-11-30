@@ -1,6 +1,3 @@
-# portfolio-sql-jornada
-Minha jornada de aprendizado em SQL Server - Documentando cada módulo e projeto. Do básico ao avançado!
-
 # 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
