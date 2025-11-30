@@ -32,6 +32,73 @@
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%2010%20-%20Vari%C3%A1veis.pdf)
 - [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2010)
 
+### **Módulo 11: Manipulando Strings e Datas** (8 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 12: Funções Condicionais** (6 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 13: SQL Views** (6 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 14: CRUD** (6 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 15: Subqueries e CTE's** (10 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 16: Loops no SQL** (3 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 17: Window Functions** (8 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 18: Otimização de Performance** (5 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 19: Regex** (5 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 20: Constraints** (5 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 21: Sequences** (3 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 22: Transactions** (3 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 23: Functions** (4 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 24: Procedures** (6 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 25: Triggers DML** (4 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 26: Triggers DDL** (3 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
+
+### **Módulo 27: Pivot Table** (4 exercícios) 
+- [📋 Lista de Exercícios]()
+- [💻 Minha Resolução]()
 ---
 
 **📅 Atualizado em:** 30/11/2024  
