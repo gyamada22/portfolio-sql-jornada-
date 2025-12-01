@@ -1,3 +1,4 @@
+---Resoluçao 8
 -- Ex1
 SELECT * FROM DimProductSubcategory;
 SELECT * FROM DimProduct;
