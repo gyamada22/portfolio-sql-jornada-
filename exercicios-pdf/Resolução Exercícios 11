@@ -1,3 +1,4 @@
+---Resoluçao 11
 --ex1
 --1a
 select ProductName 'Nome do produto', len(ProductName) 'Qtd de caracteres do produto'from DimProduct
