@@ -28,13 +28,13 @@
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%209%20-%20Group%20By%20%2B%20Joins.pdf)
 - [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%209)
 
-### **Módulo 10: Variáveis** (3 exercícios) ✅
+### **Módulo 10: Variáveis** (5 exercícios) ✅
 - [📋 Lista de Exercícios](./Lista%20de%20Exerc%C3%ADcios%2010%20-%20Vari%C3%A1veis.pdf)
 - [💻 Minha Resolução](./Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2010)
 
-### **Módulo 11: Manipulando Strings e Datas** (8 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 11: Manipulando Strings e Datas** (6 exercícios) ✅
+- [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2011%20-%20Strings%20e%20Datas.pdf)
+- [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2011)
 
 ### **Módulo 12: Funções Condicionais** (6 exercícios) 
 - [📋 Lista de Exercícios]()
