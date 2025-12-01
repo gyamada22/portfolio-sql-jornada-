@@ -1,3 +1,4 @@
+---Resoluçao 7
 -- Ex1a
 SELECT TOP(100) * FROM FactSales;
 SELECT ChannelKey AS 'Key', SUM(SalesQuantity) AS 'Total de vendas' FROM FactSales
