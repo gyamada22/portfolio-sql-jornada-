@@ -1,3 +1,4 @@
+---Resoluçao 9
 -- Ex1
 SELECT TOP 100 * FROM DimChannel;
 SELECT TOP 100 * FROM FactSales;
