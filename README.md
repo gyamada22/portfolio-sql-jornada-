@@ -3,6 +3,17 @@
 ## 📊 Progresso em Tempo Real
 ![Progresso](https://progress-bar.xyz/56/?title=Progresso&width=400)
 
+## 🗓️ Próximos Passos & Metas
+**1ª Quinzena:**
+- 🎯 **Concluir** módulos: 12-27 de SQL
+- 📚 **Iniciar estudos em** Git & GitHub: Fundamentos de versionamento e colaboração em projetos  
+- 🔌 **Iniciar estudos em** APIs REST com Python: Consumo de serviços web e integração de dados
+
+**2ª Quinzena:**
+- 🏆 **Desafios LeetCode**: 5-10 exercícios diários de SQL
+- 📜 **Certificações Técnicas**: Validação de habilidades com SQLBolt e HackerRank
+- 🐍 **Revisar Python**: Pandas, SQLAlchemy, NumPy
+
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
 
@@ -40,18 +51,6 @@
 - [ ] **25. Triggers DML**
 - [ ] **26. Triggers DDL**
 - [ ] **27. Pivot Table**
-
-## 🗓️ Próximos Passos & Metas
-**1ª Quinzena:**
-- 🎯 **Concluir** módulos 12-27 de SQL
-- 📚 **Iniciar estudos em** Git & GitHub - Fundamentos de versionamento e colaboração em projetos  
-- 🔌 **Iniciar estudos em** APIs REST com Python - Consumo de serviços web e integração de dados
-
-**2ª Quinzena:**
-- 🏆 **Desafios LeetCode** - 5-10 exercícios diários de SQL
-- 📜 **Certificações Técnicas** - Validação de habilidades com SQLBolt e HackerRank
-- 🐍 **Revisar Python** - Pandas, SQLAlchemy, NumPy
-  
 ---
 
 ## 🎓 Transição de Carreira
