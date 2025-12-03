@@ -1,8 +1,8 @@
 # 📚 Exercícios Resolvidos - SQL Server
 
 ## 📊 Estatísticas
-- **Total de exercícios:** 50+
-- **Módulos com exercícios:** 5-10
+- **Total de exercícios:** 85+
+- **Módulos com exercícios:** 5-15
 - **Habilidades praticadas:** SQL Básico ao Intermediário
 - **Status:** Em desenvolvimento
 
@@ -40,17 +40,17 @@
 - [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2012%20-%20Fun%C3%A7%C3%B5es%20Condicionais.pdf)
 - [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2012)
 
-### **Módulo 13: SQL Views** (6 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 13: SQL Views** (6 exercícios) ✅
+- [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2013%20-%20Views.pdf)
+- [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2013)
 
-### **Módulo 14: CRUD** (6 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 14: CRUD** (6 exercícios) ✅
+- [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2014%20-%20CRUD.pdf)
+- [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7%C3%A3o%20Exerc%C3%ADcios%2014)
 
-### **Módulo 15: Subqueries e CTE's** (10 exercícios) 
-- [📋 Lista de Exercícios]()
-- [💻 Minha Resolução]()
+### **Módulo 15: Subqueries e CTE's** (10 exercícios) ✅
+- [📋 Lista de Exercícios](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Lista%20de%20Exerc%C3%ADcios%2015%20-%20Subqueries%20e%20CTE.pdf)
+- [💻 Minha Resolução](https://github.com/gyamada22/portfolio-sql-jornada-/blob/main/exercicios-pdf/Resolu%C3%A7ao%20Exercicios%2015)
 
 ### **Módulo 16: Loops no SQL** (3 exercícios) 
 - [📋 Lista de Exercícios]()
