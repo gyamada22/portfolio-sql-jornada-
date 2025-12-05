@@ -17,7 +17,7 @@
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
 
-- ✅ **85+ exercícios práticos**
+- ✅ **95+ exercícios práticos**
 - 💻 **Código SQL completo** 
 - 📊 **Do básico ao avançado**
 - 🔄 **Atualizado diariamente**
