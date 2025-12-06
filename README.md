@@ -1,7 +1,7 @@
 # 🚀 Documentando minha evolução prática com SQL Server
 
 ## 📊 Progresso em Tempo Real
-![Progresso](https://progress-bar.xyz/63/?title=Progresso&width=400)
+![Progresso](https://progress-bar.xyz/78/?title=Progresso&width=400)
 
 ## 🗓️ Próximos Passos & Metas
 **1ª Quinzena:**
@@ -17,7 +17,7 @@
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
 
-- ✅ **95+ exercícios práticos**
+- ✅ **100+ exercícios práticos**
 - 💻 **Código SQL completo** 
 - 📊 **Do básico ao avançado**
 - 🔄 **Atualizado diariamente**
@@ -41,10 +41,10 @@
 - [x] **15. Subqueries e CTE's** ✅ 02/12/2025
 - [x] **16. Loops** ✅ 03/12/2025
 - [x] **17. Window Functions** ✅ 04/12/2025
-- [ ] **18. Otimização de Performance**
-- [ ] **19. Regex - Regular Expressions**
-- [ ] **20. Constraints**
-- [ ] **21. Sequences**
+- [x] **18. Otimização de Performance** ✅ 05/12/2025
+- [x] **19. Regex - Regular Expressions** ✅ 05/12/2025
+- [x] **20. Constraints** ✅ 05/12/2025
+- [x] **21. Sequences** ✅ 05/12/2025
 - [ ] **22. Transactions**
 - [ ] **23. Functions**
 - [ ] **24. Procedures**
