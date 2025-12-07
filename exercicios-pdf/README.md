@@ -77,15 +77,15 @@
 
 ### **Módulo 19: Regex** ✅ 
 
-### **Módulo 20: Constraints** (5 exercícios) 
+### **Módulo 20: Constraints** (5 exercícios) ✅ 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 21: Sequences** (3 exercícios) 
+### **Módulo 21: Sequences** (3 exercícios) ✅ 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
-### **Módulo 22: Transactions** (3 exercícios) 
+### **Módulo 22: Transactions** (3 exercícios) ✅ 
 - [📋 Lista de Exercícios]()
 - [💻 Minha Resolução]()
 
