@@ -1,7 +1,7 @@
 # 🚀 Documentando minha evolução prática com SQL Server
 
-## 📊 Progresso em Tempo Real
-![Progresso](https://progress-bar.xyz/78/?title=Progresso&width=400)
+## 📊 Progresso em Tempo Real 🚀
+![Progresso](https://progress-bar.xyz/85/?title=Conclusão&width=400&color=FF5722)
 
 ## 🗓️ Próximos Passos & Metas
 **1ª Quinzena:**
@@ -17,7 +17,7 @@
 ## 📚 Exercícios Resolvidos
 [**👉 Ver todos os exercícios resolvidos (Módulos 5-27)**](./exercicios-pdf/README.md)
 
-- ✅ **100+ exercícios práticos**
+- ✅ **110+ exercícios práticos e documentados**
 - 💻 **Código SQL completo** 
 - 📊 **Do básico ao avançado**
 - 🔄 **Atualizado diariamente**
@@ -45,8 +45,8 @@
 - [x] **19. Regex - Regular Expressions** ✅ 05/12/2025
 - [x] **20. Constraints** ✅ 05/12/2025
 - [x] **21. Sequences** ✅ 05/12/2025
-- [ ] **22. Transactions**
-- [ ] **23. Functions**
+- [ ] **22. Transactions** ✅ 06/12/2025
+- [ ] **23. Functions** ✅ 07/12/2025
 - [ ] **24. Procedures**
 - [ ] **25. Triggers DML**
 - [ ] **26. Triggers DDL**
