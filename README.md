@@ -41,13 +41,18 @@ Pandas | APIs | Visualização | Machine Learning básico
 
 ### 📊 **HackerRank SQL Proficiency**
 **5⭐ Gold Level | 710 Points | 81% Completion Rate**
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
-  <a href="https://www.hackerrank.com/guilhermeyamada1">
-    <img src="https://img.shields.io/badge/👤_Perfil-@guilhermeyamada1-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
-  </a>
-  ![5 Estrelas](https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square)
-  ![Nível Ouro](https://img.shields.io/badge/🏅-Nível_Ouro-FFD700?style=flat-square)
-  ![Progresso](https://img.shields.io/badge/📈-47/58_Concluídos-4479A1?style=flat-square)
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+  <div>
+    <a href="https://www.hackerrank.com/guilhermeyamada1">
+      <img src="https://img.shields.io/badge/👤_Perfil_Completo-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+    </a>
+  </div>
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square">
+    <img src="https://img.shields.io/badge/🏅-Nível_Ouro-FFA500?style=flat-square">
+    <img src="https://img.shields.io/badge/📊-47/58_Concluídos-4479A1?style=flat-square">
+  </div>
 </div>
 
 ### 🔗 **LeetCode Daily Practice**
