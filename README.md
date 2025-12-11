@@ -43,11 +43,14 @@ Pandas | APIs | Visualização | Machine Learning básico
 **5⭐ Gold Level | 710 Points | 81% Completion Rate**
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px; margin: 20px 0;">
+  <!-- APENAS ESTE É CLICÁVEL -->
   <div>
     <a href="https://www.hackerrank.com/guilhermeyamada1">
       <img src="https://img.shields.io/badge/👤_Perfil_Completo-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
     </a>
   </div>
+  
+  <!-- ESTES SÃO APENAS IMAGENS (NÃO CLICÁVEIS) -->
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square">
     <img src="https://img.shields.io/badge/🏅-Nível_Ouro-FFA500?style=flat-square">
