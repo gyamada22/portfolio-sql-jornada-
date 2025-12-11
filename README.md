@@ -43,8 +43,11 @@ Pandas | APIs | Visualização | Machine Learning básico
 **5⭐ Gold Level | 710 Points | 81% Completion Rate**
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
   <a href="https://www.hackerrank.com/guilhermeyamada1">
-    <img src="https://img.shields.io/badge/👤_Perfil_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white">
+    <img src="https://img.shields.io/badge/👤_Perfil-@guilhermeyamada1-2EC866?style=flat-square&logo=hackerrank&logoColor=white">
   </a>
+  ![5 Estrelas](https://img.shields.io/badge/⭐⭐⭐⭐⭐-5_Estrelas-FFD700?style=flat-square)
+  ![Nível Ouro](https://img.shields.io/badge/🏅-Nível_Ouro-FFD700?style=flat-square)
+  ![Progresso](https://img.shields.io/badge/📈-47/58_Concluídos-4479A1?style=flat-square)
 </div>
 
 ### 🔗 **LeetCode Daily Practice**
