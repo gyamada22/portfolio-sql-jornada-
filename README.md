@@ -32,7 +32,7 @@
 [![Exercícios](https://img.shields.io/badge/🔍_110+_Exercícios-00A86B?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/exercicios-pdf/README.md)
 [![LeetCode](https://img.shields.io/badge/💻_LeetCode_SQL-FF6B35?style=for-the-badge)](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 
-**✅ 27 módulos completos | 110+ exercícios | 17+ LeetCode problems**
+**✅ 34 módulos completos | 110+ exercícios | 17+ LeetCode problems**
 
 #### 📚 **Conteúdo Abordado:**
 - **Fundamentos → Avançado**: Consultas complexas, JOINs, Subqueries, Window Functions
