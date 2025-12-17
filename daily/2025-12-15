@@ -1,1 +1,79 @@
-afazer
+# 📊 Log Diário - 15/12/2025
+
+## 🎯 Metas do Dia
+✅ **Exercícios LeetCode SQL** 🚀  
+✅ **Módulo de Exercícios 3 — Excel** 📊  
+
+---
+
+## 💻 LeetCode — SQL (Easy)
+
+**Exercícios resolvidos (3):**
+- **610** — [Triangle Judgement](https://github.com/gyamada22/sql-data-engineering/blob/main/easy/610.%20Triangle%20Judgement.md)  
+- **1978** — [Employees Whose Manager Left the Company](https://github.com/gyamada22/sql-data-engineering/blob/main/easy/1978.%20Employees%20Whose%20Manager%20Left%20the%20Company.md)  
+- **1667** — [Fix Names in a Table](https://github.com/gyamada22/sql-data-engineering/blob/main/easy/1667.%20Fix%20Names%20in%20a%20Table.md)
+
+**Categoria:** Lógica, Condicionais e Manipulação de Strings ✅  
+**Foco do dia:** aplicação correta de regras de negócio, uso de `CASE WHEN`, validações lógicas e padronização de texto
+
+---
+
+## 📚 Estudos Realizados
+
+### 📊 Excel — Módulo de Exercícios 3
+
+**Status:** ✅ **CONCLUÍDO**  
+- **Exercícios:** 30/30  
+- **Aulas de Correção:** 16/16  
+- **Duração Total:** 3h49min  
+- **Progresso:** **100%**
+
+---
+
+## 🎯 Objetivo do Módulo
+
+Prática intensiva aplicada ao **mercado de trabalho**, com exercícios baseados em:
+- Situações reais do dia a dia profissional
+- Demandas comuns em processos seletivos
+- Resolução de problemas por **múltiplas abordagens no Excel**
+
+---
+
+## 🧠 Principais Conceitos Revisados no Módulo
+
+### 📐 Formatação e Organização
+- Formatação como Tabela
+- Formatação condicional (cores, semáforos e regras personalizadas)
+- Padronização de datas, moedas e identificadores
+
+### 🔎 Classificação, Filtros e Segmentação
+- Filtros automáticos
+- Ordenação por múltiplos critérios
+- Segmentação de dados sem Tabela Dinâmica
+
+### ➕ Funções Utilizadas
+- Funções básicas: `SOMA()`, `MÉDIA()`, `MÁXIMO()`, `MÍNIMO()`, `CONT.VALORES()`
+- Funções condicionais: `SE()`, `E()`, `OU()`, `SOMASES()`, `CONT.SES()`, `MÉDIASES()`
+- Busca e referência: `PROCV()`, `PROCX()`, `ÍNDICE()`, `CORRESP()`
+- Funções avançadas: `SOMARPRODUTO()`, rankings (TOP N)
+
+### 🧩 Lógica e Regras de Negócio
+- Classificação por faixas e prioridades
+- Criação de chaves compostas
+- Tratamento de erros com `SEERRO()`
+
+---
+
+## 🚀 Resultado do Dia
+
+- Consolidação prática das **Funções Mercado de Trabalho**
+- Evolução na leitura e interpretação de problemas reais
+- Maior segurança na escolha da melhor função para cada cenário
+
+---
+
+## 🔄 Próximos Passos (16/12)
+- [ ] Novos exercícios SQL no LeetCode  
+- [ ] Início do módulo **Tabela Dinâmica** no Excel  
+
+🔥 **Streak:** 5 dias seguidos estudando
