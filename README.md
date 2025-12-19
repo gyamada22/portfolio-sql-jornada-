@@ -7,14 +7,14 @@
 **Status técnico atual:**
 - 🗄️ **SQL Intermediário consolidado**, com prática contínua
 - 💻 **Treinando diariamente no LeetCode** (SQL + lógica)
-- 📈 **Excel Avançado em andamento** (~55% concluído)
+- 📈 **Excel Avançado em andamento** (~60% concluído)
 
 ---
 
 ## 📈 Daily Practice & Rotina de Estudos
 
 ### 🎯 Meta Diária
-- **5~10 exercícios LeetCode** 
+- **3~5 exercícios LeetCode** 
 - **3+ horas de Excel / Power BI**
 - **Documentação diária** da evolução no GitHub
 
