@@ -66,7 +66,7 @@
 - Prática diária documentada aqui
 - Meta: 5 exercícios/dia  
 - Foco em SQL + Algoritmos  
-🔗 https://leetcode.com/u/AEASEzj6jW/
+🔗 [https://leetcode.com/u/AEASEzj6jW/](https://leetcode.com/u/gyamada22/)
 
 ---
 
