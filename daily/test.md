@@ -41,7 +41,7 @@ Transformando dados brutos em insights acionáveis:
 
 ### 🎯 **Rotina Diária**
 - **3~5 problemas LeetCode** (foco em SQL e lógica)
-- **2+ horas de Excel/Power BI** (análise visual)
+- **4+ horas de Excel/Power BI** 
 - **Documentação pública** de progresso e aprendizados
 
 ### 📅 **Próximos Passos**
