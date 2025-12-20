@@ -1,4 +1,4 @@
-# Guilherme Yamada | Data Scientist em Transição
+# Data Scientist em Transição
 
 > Engenheiro de Produção (UFRJ) em transição para Data Scientist | Construindo expertise técnica através de prática documentada e projetos públicos
 
