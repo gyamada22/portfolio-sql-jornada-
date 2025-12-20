@@ -7,7 +7,7 @@
 **Status técnico atual:**
 - 🗄️ **SQL Intermediário consolidado**, com prática contínua
 - 💻 **Treinando diariamente no LeetCode** (SQL + lógica)
-- 📈 **Excel Avançado em andamento** (~60% concluído)
+- 📈 **Excel Avançado em andamento** (~70% concluído)
 
 ---
 
@@ -58,13 +58,13 @@
 
 **HackerRank — SQL**  
 - Gold Level (5★)  
-- 47/58 desafios concluídos  
+- 48/58 desafios concluídos  
 - SQL aplicado ao mercado  
 🔗 https://www.hackerrank.com/guilhermeyamada1
 
 **LeetCode — Daily Practice**  
 - Prática diária documentada aqui
-- Meta: 5 exercícios/dia  
+- Meta: 3 - 5 exercícios/dia  
 - Foco em SQL + Algoritmos  
 🔗 [https://leetcode.com/u/AEASEzj6jW/](https://leetcode.com/u/gyamada22/)
 
