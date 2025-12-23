@@ -24,7 +24,7 @@
 ## 🚀 Projetos em Destaque
 
 ### 📊 Job Market Analysis
-- **Foco:** Análise do mercado brasileiro de dados para mapear skills demandadas, tendências e gaps de competências entre níveis de senioridade (estágio a sênior), apoiando decisões de carreira e estudo
+- **Foco:** Análise do mercado brasileiro de dados a partir de vagas reais de recrutamento, para mapear skills demandadas, tendências e gaps de competências entre níveis de senioridade (estágio a sênior), apoiando decisões de carreira e estudo.
 - **Stack:** Excel | Python | SQL | Power BI
 - **Pipeline:** Coleta → Limpeza → Análise → Dashboards
 - **Status:** 🔄 Em desenvolvimento | [Ver repositório](https://github.com/gyamada22/job-market-analysis)
