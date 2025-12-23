@@ -53,11 +53,7 @@
 - SQL aplicado ao mercado  
 🔗 https://www.hackerrank.com/guilhermeyamada1
 
----
-
-## 🏆 **Certificações & Conquistas**
-
-### HackerRank
+### Certificado HackerRank 
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/942e53240162)
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
 - **Gold Badge SQL** (5★, top 5% da plataforma)
