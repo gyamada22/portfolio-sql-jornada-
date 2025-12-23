@@ -16,6 +16,7 @@
 - **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
 - Criação de **medidas e KPIs em DAX (Power Pivot)**
 - Desenvolvimento de **dashboards e análises orientadas a negócio**
+- **Aprendizado 100% documentado** em repositório público: [EXCEL-Data-Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics)
 - **Power BI** em andamento 
 
 ---
