@@ -24,7 +24,6 @@
 
 ### 🎯 Meta Diária
 - **Desenvolvimento e evolução do projeto [Job Market Analysis](https://github.com/gyamada22/job-market-analysis)**
-- **Desenvolvimento e evolução do projeto** <a href="https://github.com/gyamada22/job-market-analysis" target="_blank" rel="noopener noreferrer">Job Market Analysis</a>
 - **3~5 exercícios LeetCode** 
 - **4hr + de Estudo técnico contínuo em Data Analytics** (SQL, Excel, Power BI, Python)
 - **Documentação diária** da evolução no GitHub
