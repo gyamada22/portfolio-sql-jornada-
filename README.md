@@ -6,7 +6,7 @@
 
 ## 📊 **Destaques Técnicos**
 
-### 🗄️ **Advanced SQL for Analytics**
+###  **Advanced SQL for Analytics**
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
 - **+40 problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 - **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
@@ -14,7 +14,7 @@
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
 
-### 📊 **Excel & Business Intelligence**
+###  **Excel & Business Intelligence**
 - **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
 - Criação de **medidas e KPIs em DAX (Power Pivot)**
 - Desenvolvimento de dashboards e análises orientadas à tomada de decisão
@@ -24,7 +24,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📊 Job Market Analysis
+###  Job Market Analysis
 - **Foco:** Análise do mercado brasileiro de dados a partir de vagas reais de recrutamento (LinkedIn), com análise inicial focada no Brasil e posterior comparação com dados internacionais, para mapear skills demandadas, tendências e gaps de competências entre níveis de senioridade (estágio a sênior), apoiando decisões de carreira e estudo.
 - **Stack:** Excel | Python | SQL | Power BI
 - **Pipeline:** Coleta → Limpeza → Análise → Dashboards
