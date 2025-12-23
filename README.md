@@ -26,7 +26,7 @@
 - Criação de medidas e KPIs em DAX
 - Desenvolvimento de dashboards interativos e relatórios
 - Storytelling e boas práticas de visualização
-- Aprendizado documentado por módulos: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics)
+- **Aprendizado 100% documentado** em repositório público: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics)
 
 
 ---
