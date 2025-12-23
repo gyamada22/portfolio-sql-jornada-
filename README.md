@@ -15,12 +15,12 @@
 ### 📊 **Excel & Business Intelligence**
 - **Excel aplicado à análise de dados** (ETL com Power Query, modelagem com Power Pivot)
 - Criação de **medidas e KPIs em DAX (Power Pivot)**
-- Desenvolvimento de **dashboards e análises orientadas a negócio**
+- Desenvolvimento de dashboards e análises orientadas à tomada de decisão
 - **Aprendizado 100% documentado** em repositório público: [EXCEL Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics)
 
 ---
 
-## 📈 Daily Practice & Rotina de Estudos
+## 📈 Prática Contínua & Projetos
 
 ### 🎯 Meta Diária
 - **Desenvolvimento e evolução do projeto [Job Market Analysis](https://github.com/gyamada22/job-market-analysis)**
