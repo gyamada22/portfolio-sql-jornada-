@@ -6,7 +6,7 @@
 
 ### 🗄️ **SQL Specialist**
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
-- **40+ problemas LeetCode resolvidos** com soluções documentadas em: [SOLUTIONS.md](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **40+ problemas LeetCode resolvidos** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
 - **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** (5★ SQL, 48/58 desafios concluídos): [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
 - **Aprendizado 100% documentado** em repositório público: [SQL-Data-Analytics](https://github.com/gyamada22/sql-data-engineering)
