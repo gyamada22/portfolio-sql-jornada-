@@ -8,8 +8,8 @@
 
 ###  **Advanced SQL for Analytics**
 - **Técnicas dominadas**: Window Functions, CTEs, Subqueries, Otimização de queries
-- **+40 problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-- **3.600+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
+- **+50 problemas SQL resolvidos (LeetCode)** com soluções documentadas em: [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **4.300+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode: [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
 - **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
 
@@ -60,8 +60,8 @@
 
 **🧠 SQL Problem Solving — LeetCode**
 
-- 📌 +40 problemas resolvidos (SQL)
-- 📈 3.600+ visualizações em soluções publicadas
+- 📌 +50 problemas resolvidos (SQL Leetcode)
+- 📈 4.300+ visualizações em soluções publicadas
 - 🔥 Streak ativo com prática diária
 - 🗂️ Soluções documentadas com explicação clara e código limpo
 
