@@ -1,4 +1,4 @@
-# Portfólio — Data Analytics → Data Science
+# Portfólio — Data Analytics → Data Engineer
 
 > Construindo expertise técnica através de projetos públicos, prática documentada e resolução de problemas reais.
 > 
