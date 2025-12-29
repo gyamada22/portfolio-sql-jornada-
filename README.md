@@ -60,8 +60,8 @@
 
 **🧠 SQL Problem Solving — LeetCode**
 
-- 📌 +50 problemas resolvidos (SQL Leetcode)
-- 📈 4.300+ visualizações em soluções publicadas
+- 📌 +55 problemas resolvidos (SQL Leetcode)
+- 📈 6.500+ visualizações em soluções publicadas
 - 🔥 Streak ativo com prática diária
 - 🗂️ Soluções documentadas com explicação clara e código limpo
 
@@ -70,7 +70,7 @@
 
 **HackerRank — SQL**  
 - Gold Level (5★)  
-- 48/58 desafios concluídos  
+- 49/58 desafios concluídos  
 - SQL aplicado ao mercado  
 🔗 https://www.hackerrank.com/guilhermeyamada1
 
