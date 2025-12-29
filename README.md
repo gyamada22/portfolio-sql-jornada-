@@ -1,8 +1,8 @@
-# Portfólio — Data Analytics → Data Engineer
+# Portfólio — Data Analytics
 
 > Construindo expertise técnica através de projetos públicos, prática documentada e resolução de problemas reais.
 > 
-> Estudante de Engenharia de Produção (UFRJ) em transição para Data Scientist.
+> Estudante de Engenharia de Produção (UFRJ) em transição para Data Engineer.
 
 ## 📊 **Destaques Técnicos**
 
