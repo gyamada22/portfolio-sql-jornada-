@@ -55,7 +55,7 @@ Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowf
 - Pipeline alinhado a **boas práticas de engenharia de dados e analytics engineering**
 
 🔗 **Repositório:**  
-https://github.com/gyamada22/job-market-analysis
+https://[github.com/gyamada22/job-market-analysis](https://github.com/gyamada22/Analise-Mercado-de-Dados)
 
 ### Tech Layoffs — End-to-End Data Cleaning & ETL Pipeline (Snowflake)
 
