@@ -38,20 +38,6 @@
 🔗 **Repositório:**  
 https://github.com/gyamada22/SQL-Cleaning-Challenges/blob/main/Projetos/01_Tech_Layoffs/README.md
 
-
----
-
-## 📈 **Minha Jornada de Aprendizado**
-
-### 🎯 **Rotina Diária**
-- **Problemas LeetCode** (foco em SQL e lógica)
-- **4+ horas de estudos** 
-- **Documentação pública** de progresso e aprendizados
-
-### 📅 **Próximos Passos**
-1. Terminar projeto integrado Job Market Analysis
-2. Retomar estudo de Python 
-
 ---
 
 
