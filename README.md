@@ -89,21 +89,11 @@
 - [SQL (Basic)](https://www.hackerrank.com/certificates/5eb4b01629bb)
 - **Gold Badge SQL** - 5★ 57/58 Challenges solved
 
-### IBM Data Fundamentals 
-
-- [Data Fundamentals - Credly](https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url)
-
-<a href="https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url" target="_blank">
- <img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="150" alt="IBM Data Fundamentals Badge">
-</a>
-
-
-### 🎖️ Microsoft Learn 
-- [Consultar dados com Transact-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw)
-
+| [IBM Fundamentals](https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url) | [Microsoft T-SQL](https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw) |
+| :---: | :---: | 
+| <a href="https://www.credly.com/badges/543011da-8ac7-4cc4-b466-3c7081f6d2f0/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/edaf0f19-2df0-4759-8871-7b1b44687f53/image.png" width="100" alt="IBM Data Fundamentals"></a> | <a href="https://learn.microsoft.com/pt-br/users/guilhermeyamada-9069/achievements/82m4b5mw" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" width="100" alt="Microsoft T-SQL"></a> |
 
 ---
-
 ## 📬 **Contato**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
