@@ -51,7 +51,7 @@
 - Python (ETL) | Snowflake (Data Warehouse) | SQL Avançado | dbt (Modelagem Analítica) | Power BI (Dashboards) | Docker | Git/GitHub
 
 **Arquitetura & Pipeline**  
-- Coleta assistida por IA → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com **dbt (Medallion: Bronze, Silver, Gold)** → Dashboards interativos no Power BI → Documentação técnica
+- Ambiente conteinerizado (Docker) → Coleta assistida por IA (Prompt Engineering) → Limpeza e padronização (Python) → Carga no Snowflake → Modelagem analítica com dbt (Medallion: Bronze, Silver, Gold) → Dashboards interativos no Power BI → Documentação técnica
 
 **Destaques Técnicos**
 - Implementação de **Modern Data Stack**, com separação clara entre ingestão, transformação e consumo  
