@@ -8,19 +8,19 @@
 
 ## 🛠️ **Tech Stack**
 
-**Linguagens & Querying**  
+### **Linguagens & Querying**  
 - SQL (Avançado): Window Functions, CTEs, Otimização, Snowflake  
-- Python (ETL, análise): Pandas, requests, BeautifulSoup  
+- Python (ETL, análise): Pandas, numpy
 
-**Ferramentas de Data Engineering**  
+### **Ferramentas de Data Engineering**  
 - dbt (modelagem analítica) | Snowflake (Data Warehouse)  
 - Docker (conteinerização) | Git/GitHub (controle de versão)  
 
-**BI & Visualização**  
+### **BI & Visualização**  
 - Power BI (DAX, Power Query, Modelagem)  
 - Excel Avançado (Power Query, Power Pivot, DAX)  
 
-**Metodologias**  
+### **Metodologias**  
 - Medallion Architecture (Bronze-Silver-Gold)  
 - Modern Data Stack | Data Pipeline Design
 
@@ -29,17 +29,13 @@
 ## 📊 **Destaques Técnicos**
 
 ###  **SQL Specialist**
-- **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
-- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode
+- **60+ problemas SQL resolvidos (LeetCode)** com soluções documentadas em [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
+- **8.000+ views acumuladas** ao compartilhar soluções públicas na comunidade LeetCode [Perfil LeetCode](https://leetcode.com/u/gyamada22/)
 - **HackerRank Gold** 5★ SQL: [Perfil HackerRank](https://www.hackerrank.com/profile/guilhermeyamada1)
-> **Soluções Leetcode documentadas em:** [Soluções](https://github.com/gyamada22/sql-data-engineering/blob/main/SOLUTIONS.md)
-> 
 > **Aprendizado 100% documentado** em repositório público: [SQL Data Analytics](https://github.com/gyamada22/sql-data-engineering)
-
 ### **Excel Avançado**
 > **Aprendizado 100% documentado** em repositório público: [Excel Data Analytics](https://github.com/gyamada22/EXCEL-Data-Analytics/blob/main/README.md)
 ###  **Power BI & Data Visualization**
-- **Power BI**
 > **Aprendizado 100% documentado** em repositório público: [Power BI Data Analytics](https://github.com/gyamada22/PowerBI-Data-Analytics/blob/main/README.md)
 
 
