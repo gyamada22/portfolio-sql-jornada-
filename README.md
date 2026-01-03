@@ -17,7 +17,7 @@
 - Docker (conteinerização) | Git/GitHub (controle de versão)  
 
 ### **BI & Visualização**  
-- Power BI (DAX, Power Query, Modelagem)  
+- Power BI (DAX, Dashboards, Modelagem)  
 - Excel Avançado (Power Query, Power Pivot, DAX)  
 
 ### **Metodologias**  
